@@ -4,9 +4,9 @@
 <br />
 <br />
 
-[cite_start]Saya adalah seorang **IT graduate** dengan pengalaman 2 tahun di bidang **software development** dan **data analysis**[cite: 4]. [cite_start]Saya memiliki keahlian dalam pengembangan backend & frontend, manajemen database, serta machine learning[cite: 5]. [cite_start]Saya sangat antusias dalam merancang solusi yang efisien dan cepat beradaptasi dengan teknologi baru[cite: 6].
+Saya adalah seorang **IT graduate** dengan pengalaman 2 tahun di bidang **software development** dan **data analysis**. Saya memiliki keahlian dalam pengembangan backend & frontend, manajemen database, serta machine learning. Saya sangat antusias dalam merancang solusi yang efisien dan cepat beradaptasi dengan teknologi baru.
 
-[cite_start]Saat ini, saya sedang mencari peluang kerja remote untuk berkontribusi dalam tim teknologi global, dengan minat kuat pada pembangunan aplikasi web yang *scalable* dan solusi berbasis data (*data-driven*)[cite: 9].
+Saat ini, saya sedang mencari peluang kerja remote untuk berkontribusi dalam tim teknologi global, dengan minat kuat pada pembangunan aplikasi web yang *scalable* dan solusi berbasis data (*data-driven*).
 
 ---
 
@@ -56,20 +56,20 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
 | Proyek | Deskripsi Singkat | Teknologi |
 | :--- | :--- | :--- |
-| **Sistem E-Commerce & Manajemen Toko Buah** | [cite_start]Mengembangkan platform e-commerce dan kasir offline untuk bisnis ritel dengan 4 cabang[cite: 37, 38, 41]. | `PHP (CodeIgniter 4)`, `MySQL`, `JavaScript` |
-| **Sistem Manajemen & Rental Alat Berat** | [cite_start]Membangun aplikasi web untuk digitalisasi proses reservasi, keuangan, dan manajemen inventaris suku cadang[cite: 47, 50, 51]. | `PHP (CodeIgniter 4)`, `MySQL`, `JavaScript` |
-| **Aplikasi SIPJAKI untuk PUPR Riau** | [cite_start]Membangun sistem informasi pengawasan jasa konstruksi untuk meningkatkan transparansi dan efisiensi monitoring proyek[cite: 55, 60]. | `PHP (CodeIgniter 4)`, `MySQL`, `JavaScript` |
-| **Pengembangan Sistem ERP Mitra Group** | [cite_start]Merancang dan mengembangkan sistem ERP kustom yang mengintegrasikan keuangan, HR, inventaris, produksi, dan penjualan, berhasil mengurangi entri manual hingga 70%[cite: 66, 67]. | `PHP`, `MySQL`, `JavaScript` |
+| **Sistem E-Commerce & Manajemen Toko Buah** | Mengembangkan platform e-commerce dan kasir offline untuk bisnis ritel dengan 4 cabang. | `PHP (CodeIgniter 4)`, `MySQL`, `JavaScript` |
+| **Sistem Manajemen & Rental Alat Berat** | Membangun aplikasi web untuk digitalisasi proses reservasi, keuangan, dan manajemen inventaris suku cadang. | `PHP (CodeIgniter 4)`, `MySQL`, `JavaScript` |
+| **Aplikasi SIPJAKI untuk PUPR Riau** | Membangun sistem informasi pengawasan jasa konstruksi untuk meningkatkan transparansi dan efisiensi monitoring proyek. | `PHP (CodeIgniter 4)`, `MySQL`, `JavaScript` |
+| **Pengembangan Sistem ERP Mitra Group** | Merancang dan mengembangkan sistem ERP kustom yang mengintegrasikan keuangan, HR, inventaris, produksi, dan penjualan, berhasil mengurangi entri manual hingga 70%. | `PHP`, `MySQL`, `JavaScript` |
 
 ---
 
 ## 🔬 Riset & Publikasi
 
-[cite_start]**NLP Sentiment Classifier using SVM** [cite: 73]
-- [cite_start]Mengembangkan model AI untuk klasifikasi sentimen publik berbahasa Indonesia menggunakan metode Support Vector Machine (SVM)[cite: 76].
-- [cite_start]Mencapai **akurasi klasifikasi 83%** melalui teknik preprocessing data yang dioptimalkan[cite: 78].
-- [cite_start]Hasil penelitian ini berhasil **dipublikasikan di jurnal nasional terindeks SINTA 4**[cite: 79].
-- [cite_start]**Tech Stack**: `Python`, `Pandas`, `Scikit-learn`, `MySQL`[cite: 80].
+**NLP Sentiment Classifier using SVM** 
+- Mengembangkan model AI untuk klasifikasi sentimen publik berbahasa Indonesia menggunakan metode Support Vector Machine (SVM).
+- Mencapai **akurasi klasifikasi 83%** melalui teknik preprocessing data yang dioptimalkan.
+- Hasil penelitian ini berhasil **dipublikasikan di jurnal nasional terindeks SINTA 4**.
+- **Tech Stack**: `Python`, `Pandas`, `Scikit-learn`, `MySQL`.
 
 ---
 <!-- <p align="center">
