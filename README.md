@@ -72,6 +72,16 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 - **Tech Stack**: `Python`, `Pandas`, `Scikit-learn`, `MySQL`.
 
 ---
+
+<img src="https://raw.githubusercontent.com/pancasona28/pancasona28/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pancasona28.pancasona28&"  />
+</div>
+
+###
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p> -->
