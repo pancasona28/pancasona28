@@ -1,14 +1,5 @@
 # 👋 Halo, saya Nuari Ananda!
 
-<a href="https://www.linkedin.com/in/your-linkedin-username">
-  <img align="left" alt="Nuari's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:nuariananda28@gmail.com">
-  <img align="left" alt="Nuari's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://your-portfolio-link">
-  <img align="left" alt="Nuari's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/briefcase.svg" />
-</a>
 
 <br />
 <br />
